@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DemoIdSvrClient/bin/Debug/netcoreapp2.2
+/DemoIdSvrClient/obj
+/MbApi/bin/Debug
+/MbApi/obj
+/MbApi/requestlogs/2018-12
+/MbApi.Dal/bin/Debug/netstandard2.0
+/MbApi.Dal/obj
+/MbApi.EFCore/bin/Debug/netstandard2.0
+/MbApi.EFCore/obj
+/MbApi.ServiceInterface/bin/Debug/netstandard2.0
+/MbApi.ServiceInterface/obj
+/MbApi.ServiceModel/bin/Debug/netstandard2.0
+/MbApi.ServiceModel/obj
+/MbIdSvrHost/bin/Debug/netcoreapp2.2
+/MbIdSvrHost/obj
